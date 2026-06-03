@@ -6,7 +6,7 @@ A fully responsive, modern, and professional **Doctor Clinic Website** built wit
 
 ## 🌐 Live Demo
 
-> 🔗 [View Website on GitHub Pages](https://rajnish5821kumar.github.io/Doctor_Website/)
+> 🔗 [View Live Website](https://doctor-website-roan.vercel.app/)
 
 ---
 
@@ -122,9 +122,9 @@ Doctor_Website/
 
 | Detail | Info |
 |--------|------|
-| 📍 Address | 123 Medical Street, Mumbai, India |
-| 📞 Phone | +91 98765 43210 |
-| 📧 Email | info@medicareplusclinic.com |
+| 📍 Address | Babhan Bigha, Arwal, Bihar 804402 |
+| 📞 Phone | +91 6206573293 |
+| 📧 Email | rk2452003@gmail.com |
 | 🕐 Hours | Mon–Sat: 8AM – 8PM |
 
 ---
@@ -133,6 +133,9 @@ Doctor_Website/
 
 **Rajnish Kumar**
 - 🐙 GitHub: [@Rajnish5821Kumar](https://github.com/Rajnish5821Kumar)
+- 📞 Phone: +91 6206573293
+- 📧 Email: rk2452003@gmail.com
+- 🌐 Live Site: [doctor-website-roan.vercel.app](https://doctor-website-roan.vercel.app/)
 
 ---
 
